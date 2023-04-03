@@ -6,10 +6,10 @@ import httpx
 
 load_dotenv()
 
-TOKEN = 'OTQwNTg5NjUzNTc1MjMzNTk3.Gx8PbC.9qZZycfGjL_aL1Vshf5tGM6cikqq-rnJezla9c'
-PANEL_URL = 'https://game.endernodes.com'
-API_KEY = 'ptla_btGZTfKErVNjnPNuRZh639vhNM0uhar4eeesDyV1AiB'
-BOT_OWNER_ID = '962808917216329789'
+TOKEN = 'Your Bot Token'
+PANEL_URL = 'Your Panel URL'
+API_KEY = 'Your Panel API Key'
+BOT_OWNER_ID = 'Bot Owner ID'
 
 intents = discord.Intents.all()
 intents.members = True
