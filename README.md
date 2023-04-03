@@ -1,5 +1,5 @@
 <h1>New Version 1.0.1-BETA</h1>
-<p>The latest version of this code retains all of the original features and has been improved with the use of httpx, as the Pterodactyl module was no longer available. Each bot command has been re-written to ensure optimal performance, resulting in a seamless and efficient experience for the user.</p>
+<p><strong>The latest version of this code retains all of the original features and has been improved with the use of httpx, as the Pterodactyl module was no longer available. Each bot command has been re-written to ensure optimal performance, resulting in a seamless and efficient experience for the user.</strong></p>
 
 <h1>Pterodactyl-Manager</h1>
 Pterodactyl-manager simplifies the management of Pterodactyl panel in Discord servers which allows host owners to manage tasks easily.
