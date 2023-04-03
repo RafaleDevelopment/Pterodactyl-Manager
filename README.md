@@ -34,8 +34,6 @@ Add admin & Remove admin <em>(For bot)</em><br>
 
 ```pip install discord.py```
 
-```pip install pterodactyl.py```
-
 <h2>Credits</h2>
 
 <p>We don't you force you to remove our credits but we will not provide you support unless you keep credits for our bot</p>
